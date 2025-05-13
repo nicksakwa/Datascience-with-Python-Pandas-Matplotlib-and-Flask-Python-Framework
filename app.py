@@ -19,7 +19,7 @@ def plot_png():
         return send_file(plot_filename, mimetype='image/png')
     
     plt.figure()
-    health_data.plot(x='Average_Pulse', y='Calorie_ Burnage', kind='line')
+    health_data.plot(x='Average_Pulse', y='Calorie_Burnage', kind='line')
     plt.ylim(ymin=0)
     plt.xlim(xmin=0)
 
