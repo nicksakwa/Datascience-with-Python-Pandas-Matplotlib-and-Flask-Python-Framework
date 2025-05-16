@@ -17,7 +17,7 @@ Pandas is a  core library used for reading, analyzing, cleaning, and visualizing
 * **Cleaning Data:** Dealing with missing rows and columns from data, duplicates, inconsistencies, and other errors.
 * **Visualizing Data:** Generating charts and graphs from Data.
 
-Before diving into this repository, ensure you have the following installed:
+## Before diving into this repository, ensure you have the following installed:
 
 1.  **Python:** Which you can download from the [official Python website](https://www.python.org/downloads/).
 2.  **Pandas:** Install the library using pip in your bash terminal or your directory:
