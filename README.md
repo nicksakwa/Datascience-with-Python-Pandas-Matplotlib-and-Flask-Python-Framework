@@ -25,6 +25,9 @@ Before diving into this repository, ensure you have the following installed:
     pip install pandas
     ```
 3.  **Matplotlib** Install the library using pip in your bash terminal or your directory:
+    ```bash
+    pip install matplotlib
+    ```
 
 ## Running the App
 * python app.py
